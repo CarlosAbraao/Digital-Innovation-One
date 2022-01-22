@@ -22,7 +22,7 @@ public class ExecuteDebug {
 		
 		int resultado = soma(a,b);
 		
-		System.out.println("O resultado é: " + resultado);
+		System.out.println(resultado);
 		
 	}
 	

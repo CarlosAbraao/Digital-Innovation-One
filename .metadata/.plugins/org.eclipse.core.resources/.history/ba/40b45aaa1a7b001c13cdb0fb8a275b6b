@@ -14,15 +14,14 @@ public class ExecuteDebug {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Digite o valor de a: ");
 		int a = sc.nextInt();
 		
-		System.out.println("Digite o valor de b: ");
+		
 		int b = sc.nextInt();
 		
 		int resultado = soma(a,b);
 		
-		System.out.println("O resultado é: " + resultado);
+		System.out.println(resultado);
 		
 	}
 	
